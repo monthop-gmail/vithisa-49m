@@ -16,9 +16,11 @@
 
 | เอกสาร | สถานะ | รายละเอียด |
 |--------|--------|-----------|
-| [ร่างระบบบันทึกผล (Draft 001)](docs/draft-001-system-design.md) | ร่าง | ช่องทางบันทึก, Backend, Dashboard, Gamification |
+| [ร่างระบบบันทึกผล (Draft 001)](docs/draft-001-system-design.md) | ร่าง | ช่องทางบันทึก, Backend, Dashboard, Gamification — จาก อ.เอส |
+| [ร่างระบบ GGS/GGF (Draft 002)](docs/draft-002-tae-ggs-ggf.md) | ร่าง | สมัคร, บันทึก, หน้าจอ — จาก อ.เต้ |
 | [แนวทางตรวจจับความผิดปกติ](docs/anti-fraud-detection.md) | ร่าง | Anti-fraud/Anti-spam 3 ระดับ |
-| [วาระการประชุม ครั้งที่ 1](docs/meeting-agenda-001.md) | ร่าง | ประชุมทีม IT รอบแรก 7 วาระ |
+| [วาระการประชุม ครั้งที่ 1](docs/meeting-agenda-001.md) | ประชุมแล้ว | ประชุมทีม IT รอบแรก 7 วาระ — บางส่วนยืนยัน |
+| [บทบาท AI Agents](docs/agents.md) | ร่าง | AI 4 บทบาท: ผู้ประสานงาน, ผู้ช่วยผู้ใช้, นักวิเคราะห์, นักพัฒนา |
 
 ## ความน่าเชื่อถือของข้อมูล (Data Integrity)
 
